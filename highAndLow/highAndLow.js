@@ -17,7 +17,6 @@ function highAndLow(numbers){
   let newNumbers = numbers.split(" ");
   for(let i = 0; i < newNumbers.length; i++){
     let toNumber = +newNumbers[i];
-    console.log(toNumber);
     if(highNum < toNumber){
       highNum = toNumber;
     }
