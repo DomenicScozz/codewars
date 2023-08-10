@@ -1,4 +1,4 @@
-# Welcome to my Codewards practice problem repo
+# Welcome to my Codewars practice problem repo
 <p>Contained within this repository are the myriad challenges that I engage with on a daily basis, each representing an opportunity for growth and intellectual exploration.</p>
 
 <h1>Goal</h1>
